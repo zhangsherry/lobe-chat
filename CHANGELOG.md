@@ -2,6 +2,56 @@
 
 # Changelog
 
+### [Version 1.9.4](https://github.com/lobehub/lobe-chat/compare/v1.9.3...v1.9.4)
+
+<sup>Released on **2024-08-06**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix import clerk `AuthObject` from public api.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix import clerk `AuthObject` from public api, closes [#3416](https://github.com/lobehub/lobe-chat/issues/3416) ([af8960d](https://github.com/lobehub/lobe-chat/commit/af8960d))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.9.3](https://github.com/lobehub/lobe-chat/compare/v1.9.2...v1.9.3)
+
+<sup>Released on **2024-08-06**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor server db schema for better code organize.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor server db schema for better code organize, closes [#3410](https://github.com/lobehub/lobe-chat/issues/3410) ([4743bfd](https://github.com/lobehub/lobe-chat/commit/4743bfd))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.9.2](https://github.com/lobehub/lobe-chat/compare/v1.9.1...v1.9.2)
 
 <sup>Released on **2024-08-05**</sup>
